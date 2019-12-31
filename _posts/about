@@ -1,13 +1,9 @@
 ---
-layout: post
-current: post
+layout: page
 cover: assets/images/bus.jpg
 navigation: True
 title: About
 #date: 1863-11-19 10:18:00
-tags:
-class: post-template
-subclass: 'post'
 author: abraham
 ---
 
