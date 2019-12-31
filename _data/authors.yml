@@ -12,10 +12,10 @@ hannah:
   username: hannah
   name: Hannah Li
   location: Austin, TX
-  url_full: http://hannah.wf/
-  url: hannah.wf
+  url_full: False
+  url: False
   bio: Hannah is a current graduate student at UT Austin
-  picture: assets/images/hannah.jpg
+  picture: assets/images/profile.jpg
   facebook: hannah.li.71
   twitter: hannahli14
   cover: assets/images/hannah-cover.jpg
