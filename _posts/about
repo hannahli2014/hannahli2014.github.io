@@ -1,0 +1,14 @@
+---
+layout: post
+current: post
+cover: assets/images/bus.jpg
+navigation: True
+title: About
+#date: 1863-11-19 10:18:00
+tags:
+class: post-template
+subclass: 'post'
+author: abraham
+---
+
+Hi! My name is Hannah Li and I am a current MSBA student at UT Austin.
