@@ -9,15 +9,15 @@ ghost:
   twitter: tryghost
   cover: False
 hannah:
-  username: hannah
-  name: Hannah Wolfe
-  location: London, UK
+  username: hannahli2014
+  name: Hannah Li
+  location: Austin, TX
   url_full: http://hannah.wf/
   url: hannah.wf
-  bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
+  bio: Hannah is a current graduate student at UT Austin
   picture: assets/images/hannah.jpg
-  facebook: False
-  twitter: erisds
+  facebook: hannah.li.71
+  twitter: hannahli14
   cover: assets/images/hannah-cover.jpg
 john:
   username: john
