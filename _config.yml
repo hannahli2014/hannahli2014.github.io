@@ -94,4 +94,3 @@ exclude:
   - changelog.md
   - "*.Rmd"
   - .git*
-
