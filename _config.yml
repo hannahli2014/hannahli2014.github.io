@@ -1,3 +1,4 @@
+remote_theme: jekyller/jasper2
 # Jekyll configuration
 markdown: kramdown
 highlighter: rouge
