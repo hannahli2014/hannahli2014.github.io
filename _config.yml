@@ -37,8 +37,8 @@ google_analytics: UA-69281367-1 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
-permalink: /author/:author
-permalink: /tag/:tag
+#permalink: /author/:author
+#permalink: /tag/:tag
 
 # Authors' info in `_data/authors.yml`
 # Tags' info in `_data/tags_info.yml`
@@ -70,7 +70,7 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: hannahli2014
+username: jekyller
 repo: jasper2
 branch: master
 relative_source: ../jasper2/
