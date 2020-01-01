@@ -1,3 +1,3 @@
 ---
-permalink: author/:author
+permalink: author.html
 ---
