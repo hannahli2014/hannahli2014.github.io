@@ -1,5 +1,5 @@
 ---
 layout: author
 current: author
-permalink: /author/:author
+permalink: author.html
 ---
