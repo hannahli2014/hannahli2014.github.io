@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: author
 permalink: /author/hannah/
 ---
 HELLO
