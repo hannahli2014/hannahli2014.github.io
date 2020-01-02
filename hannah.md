@@ -1,5 +1,5 @@
 ---
 layout: page
 title: "Hannah Li"
-permalink: /author/:author
+permalink: /author/hannah
 ---
