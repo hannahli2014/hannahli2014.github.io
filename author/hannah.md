@@ -1,6 +1,6 @@
 ---
 layout: author
-class 'author-template'
+class: 'author-template'
 permalink: /author/hannah/
 ---
 HELLO
