@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: author
 title: "Hannah Li"
 permalink: /author/hannah/
 ---
