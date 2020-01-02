@@ -1,10 +1,12 @@
 ---
 layout: page
+current: page
+cover:  assets/images/Best-CRE-Firms.jpg
 navigation: True
-title: Hannah Li
-date: 2020-01-01
+title: About
+date: 2019-12-31
+tags: False
 class: page-template
-permalink: /author/hannah/
+author: hannah
 ---
-
 Hello testing 2
