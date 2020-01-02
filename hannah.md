@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Hannah Li"
 permalink: /author/hannah/
 ---
