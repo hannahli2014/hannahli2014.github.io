@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 current: author
 title: Author Page
 cover: false
