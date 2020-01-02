@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: author
 navigation: True
 title: Hannah Li
 date: 2020-01-01
