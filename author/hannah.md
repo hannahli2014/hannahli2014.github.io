@@ -7,6 +7,6 @@ class: 'author-template'
 navigation: True
 label: Author
 logo: 'assets/images/ghost.png'
-permalink: /author/hannah/
+permalink: author.html
 ---
 HELLO
