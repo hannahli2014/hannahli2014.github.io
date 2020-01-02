@@ -1,6 +1,6 @@
 ---
 layout: default
 title: "Hannah Li"
-permalink: /author/hannah/
+permalink: author.html
 ---
 HELLO testing
